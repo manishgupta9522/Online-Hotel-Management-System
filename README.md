@@ -1,3 +1,5 @@
+# Online Hotel Management System
+
 it is a web application developed for effective handling and 
 overall management of hotel works. Online Hotel Management System focuses on helping the 
 customers to view and book the room and hotel administrator in tasks like room booking process, 
